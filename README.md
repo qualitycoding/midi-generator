@@ -52,4 +52,4 @@ The generated Vite config sets the base path to `/midi-generator/` for GitHub Pa
 
 ## Licence
 
-No licence file has been added yet.
+Apache License 2.0. See [LICENSE](LICENSE).
